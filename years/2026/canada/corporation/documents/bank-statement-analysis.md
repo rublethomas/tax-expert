@@ -22,3 +22,11 @@ Source: CAD and USD business account CSVs (originals NOT in repo; drop them in t
 
 ## Answer received
 - Jan/Feb 2026 USD wires (6,846.50 and 8,094.50) = pending payments for work done while in Canada (before departure). Treat as 2025-earned receivables; note date work performed for 5471/T2 accrual.
+
+## Corporate TD Business Cash Back Visa x4938 (added 2026-11-03; PDFs not kept)
+- Entity name on statements: **12889901 CANADA INC** (a federal numbered company name – confirm incorporation jurisdiction; earlier assumed "Ontario"). Card in Ruble's name; credit limit CAD 19,000; limit/balances tiny.
+- Statements received: 2025-04-07, 05-05, 08-05, 11-05, 12-05, 2026-01-05. No statements exist for other months (none generated: no transactions). Card is effectively unused after 2025-12-08.
+- Spend is small and mostly fuel/office: Staples (3 purchases, 182.40), fuel (Mobil, Canadian Tire, Esso, Petro-Canada = 296.72), AliExpress 469.33 (possibly personal – flag). Total purchases in file CAD 948.45.
+- Payments match the CAD corp account: 726.98 (2025-04-21) and 142.38 (2025-07-21) come from the corp account. **The 2025-12-29 payment of 68.75 matches a TD personal savings transfer** (personal funds used to pay a corporate card).
+- Last purchase 2025-12-08, before the departure date → no card use after 2026-01-02 through 2026-01-05 (later statements still to come).
+- Confirmed by user 2026-11-03: no statements for the other periods because no activity occurred; nothing is missing.
