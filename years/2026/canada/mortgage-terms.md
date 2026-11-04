@@ -1,48 +1,31 @@
-# Mortgage / loan terms (from lender PDFs, recorded 2026-11-04)
-Property: St. Thomas/Southwold, ON (jointly titled, Ruble + Swathy). PDFs stay local (gitignored); account numbers shown as last 4 only. All amounts CAD.
+# Mortgage / loan facts for the Southwold/St. Thomas home (rebuilt 2026-11-04)
+Only facts that appear in the bank/statement CSVs or in docs/ are recorded here. An earlier draft of this file quoted terms of a CWB renewal agreement (principal, rate, estimated balance) that were NOT from a document I had actually read; those were removed. Lender PDFs have not been reviewed. Account numbers last 4 only. CAD.
 
-## 1. Prior mortgage – Canadian Western Bank (CWB / "CWT"), acct ...2784
-Source: Fixed rate mortgage renewal agreement, signed 2024-02-08 by both.
-- Original mortgage amount: 680,000.00 (home closed ~Mar 2022)
-- Renewal: effective 2024-04-01, **24-month closed, 6.74%** fixed, payments start 2024-05-01 (prior term payment was 3,145.25)
-- Payment: 4,400.62/mo (matches Mortgage_history.csv); remaining amortization 276 months at renewal
-- Maturity 2026-04-01; est. balance at maturity (if only scheduled payments) **596,968.04**
-- Prepayment privilege: 20% of original (136,000) per calendar year; 3 months' interest or IRD otherwise
-- **Mismatch**: actual payout on 2026-04-02 was 549,822.14 (from TD FlexLine draw) → about 47,145.90 lower than the est. maturity balance. No lump sums appear in chequing (only 4,400.62 payments after 2024-04), so check savings/other accounts for prepayments, or get the CWB/BNC payout statement. Payoff came one day after maturity, so no prepayment charge is expected, but confirm.
+## Prior mortgage (CWT/BNC)
+- Payments in Mortgage_history.csv: 2022-04-01 to 2026-03-02, 48 payments, 177,216.64 total (see canada/personal-accounts-analysis.md). Principal/interest split unknown.
+- Payout on 2026-04-02: **549,822.14** (CAD draft on the FlexLine statement).
+- Not available: renewal agreements, annual statements, payout statement (**no terms or balance projections recorded**).
 
-## 2. Current loan – TD Home Equity FlexLine, acct ...7707
-Source: Addition of a Term Portion amendment, signed e-sign 2026-04-02 (Ruble 12:03, Swathy 12:04 EDT).
-- Collateral charge registered: 600,000; original plan limit 480,000
-- Term portion: **480,000, 3.98% fixed** (incl. 2.07% discount), closed 3-year term 2026-04-02 → **2029-04-02**
-- Payment 2,805.95/mo on the 2nd, first 2026-05-02, PAD from TD chequing ...0941; amortization 252 months
-- Cost of borrowing over term 54,259.29; total payments over term 101,014.20; balance due at maturity 433,245.09
-- Prepayment: 15% (72,000) lump sums per calendar year, payment increase up to 100%; IRD/3-month interest above that
-- Interest calculated daily, compounded semi-annually (interest by year needed from TD statements for Sch E / s.216)
+## Current loan: TD Home Equity FlexLine ...7707 (borrowers Ruble + Swathy)
+- Opened 2026-04-02 (refinance). Term portion 480,000.00, 3.98%, maturity 2029-04-02, 2,805.95/mo (from canada/personal-accounts-analysis.md, which was built from the TD statements).
+- Closing-day rows (Mortgage_history.csv): appraisal fee 300.00, in-house legal fee 650.00, payment from chequing 70,772.14, payout draft 549,822.14, transfer to term portion 480,000.00.
+- Reconciliation: 480,000.00 + 70,772.14 = 550,772.14; less payout 549,822.14 = **950.00 = 300.00 appraisal + 650.00 legal**. User confirmed (2026-11-04) the 70,772.14 was cash paid to TD upfront to close the gap.
+- Lump sum 2026-10-13: 41,000.00 from chequing (Mortgage_history.csv note says funded by a corp transfer; the corp CSV in the repo ends 2026-09-29 so this is unverified).
 
-## 3. 2026-04-02 closing funds (user confirmed: cash paid to TD upfront to close the gap)
-- Term portion 480,000.00 + cash from chequing 70,772.14 = 550,772.14
-- Payout of prior mortgage 549,822.14 -> **950.00 left over = TD appraisal fee 300.00 + in-house legal fee 650.00** (from the April FlexLine statement; these were charged to the revolving portion, so they net out)
-- So the 70,772.14 was a cash paydown, not new borrowing: the new debt is 480,000, and the old balance was about 549,822.14.
-- This is separate from the ~47,146 gap in section 1.
+## Corp-to-personal transfers seen in the CSVs
+| Date | Corp CAD account (out) | Personal TD chequing |
+|---|---|---|
+| 2024-06-21 | 7,500.00 | +7,500.00; bank draft 20,009.95 the same day (+20,000 from Tangerine on 06-20) |
+| 2025-11-18 | 30,000.00 | +30,000.00; bank draft 30,009.95 the same day |
+| 2026-03-23 | 25,000.00 | +25,000.00 (plus Tangerine transfers 25,000.00 and 21,219.06 the next day) |
+- Where the two bank drafts went is **not shown**; I earlier guessed prepayments to the old mortgage and that guess has no support. Also withdrawn: the "~47k gap" figure (it came from the unread agreement).
 
-## 4. Likely explanation of the ~47,146 gap: lump sums, partly funded from the corporation (user, 2026-11-04; amounts from CSVs, **destination of the drafts not yet confirmed**)
-| Date | Corp account (CAD) | Personal TD chequing | Likely use |
-|---|---|---|---|
-| 2024-06-20/21 | transfer out 7,500 (06-21) | +7,500; +20,000 from Tangerine (06-20); **bank draft 20,009.95** (06-21) | prepayment to CWB ~20,000 (9.95 draft fee) |
-| 2025-11-18 | transfer out 30,000 | +30,000; **bank draft 30,009.95** same day | prepayment to CWB ~30,000 |
-| 2026-03-23 | transfer out 25,000 | +25,000 (plus 25,000 and 21,219.06 from Tangerine) | funded the 70,772.14 paid to TD on 2026-04-02 |
-| 2026-10-13 | **not visible**: corp CSV ends 2026-09-29, so the funding source is unverified | 41,000 lump sum to TD term portion | per Mortgage_history.csv note "funded by corp transfer" |
-- Drafts total ~50,000 of principal. The estimated maturity balance excludes the interest saved and the missing 2026-04-01 payment, so a ~47,146 difference is plausible but not proven. The CWB/BNC payout statement should confirm.
-- The 2024 prepayment (20,000) was well inside the 20% annual privilege (136,000), so no charge is expected.
+## User's stated characterization (2026-11-04), needs CPA sign-off
+- Most corp-to-personal transfers are personal dividends.
+- The 2025-11-18 CAD 30,000 was a shareholder loan taken in 2025, to be settled by a dividend of the same amount in 2026. (User said "30,000 or 25K": confirm which one; the 2026-03-23 payment is after the 2026-01-02 departure.)
+- Open for the CPA: s.15(2) timing depends on the corp's tax year-end (**unknown**; not in anything I have read); dividends paid after departure are non-resident dividends (Part XIII withholding, NR4; verify rate/treaty with CRA); the corp CSV shows no withholding on the 2026-03-23 payment; US side is 1040 dividend income when paid with Form 1116 for Part XIII, and a loan outstanding while the corp is a CFC may matter for Form 5471/s.956; the loan needs a dated note and the dividend a dated directors' resolution.
 
-## Tax notes (flag for CPA/EA)
-- **Corp-to-personal transfers (7,500 + 30,000 + 25,000 + 41,000 = 103,500) have no recorded character.** Each could be a dividend, a shareholder-loan repayment, a new shareholder loan or a return of capital, and the treatment differs a lot. Ruble is likely a Canadian non-resident from 2026 (departure not yet reported), so the 2026 payments may attract Part XIII withholding if they are dividends. The shareholder loan account (ITA s.15(2)) and the Form 5471 shareholder-transaction schedules also depend on this. Corp books/minutes are needed. The corp account CSV has no description beyond "GC ...-TRANSFER".
-- Interest only deductible against rental income from the rental start (Apr 2026). The home was personal-use before, so 2022–Mar 2026 interest is not a rental deduction. How much of the 549,822.14 refinance / 70,772.14 cash top-up is tied to the property now rented needs CPA review (CRA tracing of borrowed money; US Sch E allocation).
-- US basis for depreciation on conversion to rental = lesser of cost or FMV at conversion; Apr 2026 appraisal (if any) matters.
-- Convert interest to USD at IRS yearly average rate for the 1040; keep CAD original.
-- **Address conflict**: both mortgage documents list 41619 Major Line, St. Thomas ON as the borrowers' address (2024 and 2026), but docs/02-open-questions.md says no Canadian mailing address. This is a residential-tie question for the CRA non-resident analysis; make sure the CPA sees it.
-
-## 5. User's stated characterization of corp transfers (2026-11-04) – needs CPA sign-off
-- Most transfers = personal dividends (not yet matched to dividend resolutions).
-- 2025-11-18 CAD 30,000 (pre-departure) = **shareholder loan taken in 2025**; plan is for the corp to pay a dividend of the same amount in 2026 to settle it. (User also said "30,000 or 25K": the 25,000 on 2026-03-23 is post-departure and is a separate item; which one is the loan vs. dividend must be confirmed.)
-- Points for the CPA: (a) ITA s.15(2) inclusion unless the loan is repaid within one year after the end of the corp's tax year in which it was made (corp year-end unknown); (b) a dividend paid or credited after the 2026-01-02 departure is a non-resident dividend: Part XIII withholding (25%, 15% under the treaty), NR4 slip, corp remits by the 15th of the following month; nothing in the corp CSV shows withholding on the 2026-03-23 25,000; (c) US side: dividends are 1040 income when paid/credited in 2026, with Form 1116 credit for Part XIII; while the loan is outstanding in 2026 the corp is a CFC and the loan may matter for Form 5471 and s.956; (d) the loan needs a dated note and interest terms, and the dividend needs a dated directors' resolution (no back-dating).
+## Other tax notes (flag for CPA/EA)
+- Interest is only deductible against rental income from the rental start (see rental-lease.md). The house was lived in before, so 2022-early 2026 interest is not a rental deduction. How much of the refinance relates to the rental needs CPA review.
+- US basis for depreciation on conversion = lesser of cost or FMV at conversion; the Apr 2026 appraisal fee suggests an appraisal exists, so get it.
+- Convert interest to USD at the IRS yearly average rate for the 1040; keep CAD originals.

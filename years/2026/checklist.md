@@ -52,16 +52,25 @@ Status key: [ ] todo · [x] done · [~] waiting on someone
 - [ ] Swathy's rows are copies of Ruble's from 2017 on (user: travelled together); pull her own I-94 history to verify (her entries pre-2025-11-22 may differ)
 - [ ] Then build day-count worksheet (substantial presence test)
 
-## Mortgage (added 2026-11-04)
-- [x] CWB 2024 renewal agreement and TD FlexLine 2026 term amendment received (see canada/mortgage-terms.md)
-- [ ] Explain ~CAD 47,146 gap: CWB est. maturity balance 596,968.04 vs payout 549,822.14 (prepayments? get CWB/BNC payout statement). Note: the 70,772.14 cash paid to TD at closing is a separate item, already accounted for
+## Mortgage / corp transfers (rebuilt 2026-11-04; see canada/mortgage-terms.md)
 - [x] 950.00 closing difference = appraisal 300 + in-house legal 650 (TD April statement)
-- [ ] Confirm the bank drafts (20,009.95 on 2024-06-21; 30,009.95 on 2025-11-18) went to CWB as prepayments; get CWB/BNC payout statement
-- [ ] Characterize each corp-to-personal transfer (2024-06-21 7,500; 2025-11-18 30,000; 2026-03-23 25,000; 2026-10 41,000): dividend / loan / repayment / capital. **CPA flag**: Part XIII withholding, s.15(2), Form 5471
-- [ ] TD FlexLine interest paid by month for 2026 (Apr–Dec) and revolving-portion interest
-- [ ] Confirm lender mailing address for both borrowers (conflicts with "no Canadian address")
+- [ ] Get lender documents: old mortgage (CWT/BNC) statements and the 2026-04-02 payout statement, TD FlexLine terms and statements (June, Oct+), refinance closing papers
+- [ ] Find where the bank drafts (20,009.95 on 2024-06-21; 30,009.95 on 2025-11-18) went
+- [ ] Characterize each corp-to-personal transfer (2024-06-21 7,500; 2025-11-18 30,000; 2026-03-23 25,000; 2026-10-13 41,000): dividend / loan / repayment / capital. **CPA flag**: Part XIII withholding, s.15(2), Form 5471
+- [ ] Confirm which transfer was the 2025 shareholder loan; corp tax year-end date (drives s.15(2) deadline); loan note + dated dividend resolution(s)
+- [ ] Source of the 2026-10-13 41,000 lump sum (corp CSV only runs to 2026-09-29)
+- [ ] TD FlexLine interest paid by month for 2026 (Apr-Dec)
 - [ ] CPA: interest deductibility on refinance for rental use; April 2026 appraisal for FMV at conversion
 - [ ] Come back to: substantial presence day-count worksheet (deferred by user 2026-11-04)
-- [ ] Confirm which transfer was the 2025 shareholder loan (30,000 on 2025-11-18?) and whether the 2026-03-23 25,000 is a dividend
-- [ ] Corp tax year-end date (drives s.15(2) repayment deadline); loan note + dated dividend resolution(s); NR4/Part XIII withholding on 2026 dividends
-- [ ] Source of the 2026-10-13 41,000 lump sum (corp CSV only runs to 2026-09-29)
+
+## Corporation (needs documents; nothing reviewed yet)
+- [ ] Not yet seen: T2 returns/NOAs, GST/HST filings, CRA letters, CBCA annual return/ISC register, articles. Review them before drawing any conclusion on filing status, year-end, or what the register says about residency/citizenship
+- [ ] Citizenship = Canadian (user confirmed 2026-11-04)
+
+## Rental lease (added 2026-11-04; see canada/rental-lease.md)
+- [x] Lease received: term 2026-03-15 to 2027-03-14, rent 2,800/month, tenants Sarah and Sophie Tasker
+- [ ] **NR6 / non-resident rent withholding**: rent has been paid in full; decide with the CPA before the next payment (2026-11-15)
+- [ ] Where did the first month's rent (2026-03-15 to 04-14) and the 5,600 deposit go? Get the brokerage statement and commission invoice (co-op half month + HST, plus listing fee)
+- [ ] Title: ownership split Ruble/Swathy (income split for s.216 and Schedule E)
+- [ ] Rental start date for books: lease says 2026-03-15 (earlier notes said Apr 2026); confirm
+- [ ] Landlord's property tax bills, home insurance, repair receipts, purchase price/date and land/building split
