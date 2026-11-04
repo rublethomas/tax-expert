@@ -1,0 +1,32 @@
+Row_Type,Period_Start,Period_End,Item,Opening_Value,Transfer_In,Fees,Change_In_Value,Closing_Value,Units,Unit_Value,Avg_Cost,Period_Return_Pct,Notes
+SUMMARY,2025-01-01,2025-06-30,Group RRSP (Desjardins Trust; SSENSE plan G001371),0.00,28243.53,-35.69,787.99,28995.83,,,,2.66,Participation date 2025-05-21; return shown is since 2025-05-21
+SUMMARY,2025-01-01,2025-12-31,Group RRSP (Desjardins Trust; SSENSE plan G001371),0.00,28243.53,-263.28,3088.37,31068.62,,,,10.00,Return since 2025-05-21 (last 6 months 7.15%); annual fee CAD 180.00 noted
+SUMMARY,2026-01-01,2026-06-30,Group RRSP (Desjardins Trust; SSENSE plan G001371),31068.62,0.00,-238.70,3194.67,34024.59,,,,18.29,Return since 2025-05-21 (last 6 months 9.51%; last year 17.36%)
+FUND,2025-06-30,2025-06-30,Baillie Gifford Global Equity,,,,,3941.31,79.9304,49.3093,46.8136,5.20,
+FUND,2025-06-30,2025-06-30,Desjardins Glob. Eq. Divid.,,,,,5498.99,267.8344,20.5313,20.2481,1.27,
+FUND,2025-06-30,2025-06-30,Global Alpha Global Small Cap Equity,,,,,2769.78,178.1550,15.5470,14.8941,4.25,
+FUND,2025-06-30,2025-06-30,Baillie Gifford Emerging Markets,,,,,2845.21,304.5094,9.3436,9.0254,3.40,
+FUND,2025-06-30,2025-06-30,DFS BlackRock Gbl Rl Est Idx,,,,,7146.25,429.3718,16.6435,16.3686,1.55,
+FUND,2025-06-30,2025-06-30,Jarislowsky Fraser Canadian Equity,,,,,4007.96,47.9502,83.5858,80.7038,3.44,
+FUND,2025-06-30,2025-06-30,DFS BlackRock Universe Bond Index,,,,,1498.99,67.0481,22.3569,22.0262,1.37,
+FUND,2025-06-30,2025-06-30,Desjardins Enhanced Bond,,,,,1002.48,62.6409,16.0036,15.7492,1.49,
+FUND,2025-06-30,2025-06-30,AlphaFixe Enhanced Fixed Inc.,,,,,284.86,22.4555,12.6857,12.4739,1.57,
+FUND,2025-12-31,2025-12-31,Baillie Gifford Global Equity,,,,,4136.26,79.3327,52.1381,46.8135,10.40,
+FUND,2025-12-31,2025-12-31,Desjardins Glob. Eq. Divid.,,,,,0.00,0.0000,,0.0000,3.01,Fully switched into Mondrian Global Equity - M (interfund transfer CAD 5593.23)
+FUND,2025-12-31,2025-12-31,Global Alpha Global Small Cap Equity,,,,,3049.28,176.8230,17.2448,14.8941,14.77,
+FUND,2025-12-31,2025-12-31,Baillie Gifford Emerging Markets,,,,,3431.51,302.2342,11.3538,9.0253,24.70,
+FUND,2025-12-31,2025-12-31,Mondrian Global Equity - M,,,,,6095.12,551.5445,11.0510,10.0777,8.97,Received CAD 5593.23 interfund transfer
+FUND,2025-12-31,2025-12-31,DFS BlackRock Gbl Rl Est Idx,,,,,7349.67,426.1615,17.2462,16.3686,4.44,
+FUND,2025-12-31,2025-12-31,Jarislowsky Fraser Canadian Equity,,,,,4205.92,47.5916,88.3753,80.7039,8.55,
+FUND,2025-12-31,2025-12-31,DFS BlackRock Universe Bond Index,,,,,1503.64,66.5468,22.5952,22.0261,1.69,
+FUND,2025-12-31,2025-12-31,Desjardins Enhanced Bond,,,,,1010.32,62.1719,16.2505,15.7492,2.28,
+FUND,2025-12-31,2025-12-31,AlphaFixe Enhanced Fixed Inc.,,,,,286.90,22.2875,12.8725,12.4738,2.30,
+FUND,2026-06-30,2026-06-30,Baillie Gifford Global Equity,,,,,4351.33,78.7396,55.2623,55.8820,5.20,
+FUND,2026-06-30,2026-06-30,Global Alpha Global Small Cap Equity,,,,,3298.55,175.5013,18.7950,14.9534,8.17,
+FUND,2026-06-30,2026-06-30,Baillie Gifford Emerging Markets,,,,,4595.16,299.9743,15.3185,9.2249,33.91,
+FUND,2026-06-30,2026-06-30,Mondrian Global Equity - M,,,,,6469.85,547.4200,11.8188,10.2991,6.15,
+FUND,2026-06-30,2026-06-30,DFS BlackRock Gbl Rl Est Idx,,,,,8282.70,422.9751,19.5820,16.6679,12.69,
+FUND,2026-06-30,2026-06-30,Jarislowsky Fraser Canadian Equity,,,,,4184.75,47.2357,88.5929,82.2821,-0.50,
+FUND,2026-06-30,2026-06-30,DFS BlackRock Universe Bond Index,,,,,1524.13,66.0499,23.0754,22.5573,1.36,
+FUND,2026-06-30,2026-06-30,Desjardins Enhanced Bond,,,,,1027.43,61.7065,16.6503,16.1159,1.69,
+FUND,2026-06-30,2026-06-30,AlphaFixe Enhanced Fixed Inc.,,,,,290.69,22.1205,13.1413,12.7713,1.32,

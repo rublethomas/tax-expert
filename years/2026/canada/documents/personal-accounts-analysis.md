@@ -57,10 +57,41 @@ Post-departure corp draws total **CAD 66,814** (25,000 + 41,814). If dividends: 
 - Manulife RRSP: Kinaxis **group** RRSP (CAD 19,044.00 at 2024-12-31; contributions 2023-04 → ~Mar 2025) → transferred **CAD 20,476.72** into a **personal RRSP** (opened 2025-03-18; transfer not a withdrawal).
 - Holding: single fund "ML LifePath Index 2055" (target-date; fee rose from 0.65% in the group plan to 1.62% in the personal plan). Units 839.83.
 - Value **CAD 27,161.77 at 2026-06-30**; no withdrawals; only CAD 2.00 deposited in 2026. Dec 2026 value needed for FBAR/8938 (max value during 2026 so far ≈ 27.2K).
-- "35K" = combined RRSPs of both spouses (per user). Ruble CAD 27,161.77 + Swathy CAD 1,084.63 = CAD 28,246.40 at 2026-06-30; ~CAD 6.8K gap → another RRSP/plan (e.g., Veeva group plan?) may exist, to be provided.
+- (Superseded) "35K" was Swathy's two RRSPs; see the confirmed totals below.
 - US treatment: RRSP growth is tax-deferred under the treaty (no form needed since Rev. Proc. 2014-55) but it is reportable on FBAR and Form 8938. Do not withdraw/convert without advice.
 - **Tie to Canada**: statements are still mailed to your old Ontario address (St. Thomas); update the address with Manulife (and every other institution) once you decide, as a tidy-up for the residency position.
 
 ### Swathy's Manulife RRSP (added)
 - Opened 2025-11-26 by transfer of CAD 1,009.34; CAD 1,001.80 at 2025-12-31; **CAD 1,084.63 at 2026-06-30** (fund: ML BR LifePath Idx 2050; 30.479 units). The CAD 45 "money out" in 2026 is likely three CAD 15 admin fees (balance < CAD 15K), not a withdrawal – confirm.
 - Reportable on FBAR/8938 (combined with Ruble's under MFJ thresholds). Swathy's employer group-plan statements (Veeva) and Ssense payroll docs still to come.
+
+### Swathy's SSENSE group RRSP – Desjardins (RRSP_Swathy_Desjardins.csv; PDFs not kept)
+- Group RRSP, Desjardins Trust, group G001371 (SSENSE plan). Participation from **2025-05-21** with a **CAD 28,243.53 transfer in**. Value: CAD 28,995.83 (2025-06-30) → **31,068.62 (2025-12-31)** → **34,024.59 (2026-06-30)**. No withdrawals; fees CAD 263.28 (2025) and 238.70 (H1 2026). Holds 9→9 pooled funds (global/EM equity, real estate index, Canadian equity, bond funds); Desjardins Glob. Eq. Divid. switched to Mondrian Global Equity - M in 2025.
+- Beneficiary: Ruble. Statements still mailed to the old St. Thomas address.
+- **RRSP totals at 2026-06-30**: Ruble (Manulife) 27,161.77 + Swathy (Manulife) 1,084.63 + Swathy (Desjardins) 34,024.59 = **CAD 62,270.99**. The earlier "35K" ≈ Swathy's two RRSPs (35,109.22) – confirm what it meant.
+- US: pooled funds inside an RRSP – treaty deferral applies (no form), but all RRSPs go on FBAR/Form 8938 (MFJ aggregation); check with CPA if fund-level PFIC reporting is expected.
+
+- **Confirmed 2026-11-03**: "35K" = Swathy's two RRSPs (CAD 35,109.22). These three RRSPs (Ruble Manulife, Swathy Manulife, Swathy Desjardins) are ALL the RRSPs. Total CAD 62,270.99 at 2026-06-30.
+
+### TD savings history completed (TD_savings.csv, Apr 2021 → Feb 2026; for reference)
+- Joint savings (Swathy or Ruble), opened 2021-04-12. 2021-07-16 deposit "WPS" of CAD 76,523.24 (source unknown). Balance ~CAD 74.7K through Feb 2022, then **2022-03-21 CAD DRAFT 03199876 for CAD 74,009.95**.
+- **Same day (2022-03-21) the corporation issued CAD DRAFT 03199875 for CAD 85,805.11** (consecutive draft numbers) → likely the closing funds for the home purchase: ≈ CAD 159,815 combined. Statement address changes from Hamilton (Grosvenor Ave) to St. Thomas between the Feb and Mar 2022 statements → home purchased ~2022-03-21. The corporation's share (~CAD 85.8K) is a **shareholder benefit/loan question** for the accountants (not a tax-prep conclusion).
+- Mid-year balances after that: CAD 386.16 (2024-12-31); small card payments only.
+- Intermediate periods with no statement (Apr 2022–Nov 2024 and Jan–May 2025 gaps are covered by the long statements shown).
+
+- User answer (2026-11-03): the 2021-07-16 "WPS" CAD 76,523.24 deposit was probably a wire of savings from the US to Canada when moving to Canada in 2021 → implies prior US residence/work before 2021 (details to collect: arrival date in Canada, prior US status/returns, any US accounts/401(k)/IRA still open).
+
+## TD joint chequing – full history added (TD_chequing.csv, 2021-04-12 → 2026-11-03; 1,345 rows)
+Built from 50 monthly statements (Apr 2021 – May 2025) + the earlier May 2025–Nov 2026 extract. Every statement's opening/closing balance and withdrawal/deposit totals were checked; all matched. PDFs not kept.
+- **Payers seen** (confirmed by user): **Swathy** – WIPRO LIMITED (Apr–Nov 2021), then Groupe Atallah/Atallah Group = the SSENSE employer (Dec 2021 pay, then "SSENSE PAY" Jan 2022 → Jul 2025, biweekly; small Atallah credits to 2024 = same employer), later Veeva (Oct–Nov 2025). Kinaxis payroll (Ruble) is in the Tangerine account.
+- **Mortgage (CWT = Canadian Western Trust)**: first payment 2022-04-01 CAD 516.38 (partial), then CAD 3,145.25/mo to Apr 2024, CAD 4,400.62/mo from May 2024 → confirms the home closing in **Mar 2022**.
+- **Corporation transfers into this account** ("GC 0100/0102/3455"): 2022-03-15 5,000; 2022-06-27 10,000; 2022-09-12 10,000; 2023-03-24 10,000; 2024-06-21 7,500; 2025-11-18 30,000; 2026-03-23 25,000; 2026-10-13 41,814. The corporation's CAD 30,000 draw of 2022-02-11 does **not** appear here (went to another account – unknown).
+- **Bank drafts out (fee 9.95 each)**: 2022-03-21 savings draft 74,009.95 (+ corp draft 85,805.11 = home closing); **2024-01-30 CAD 20,009.95** and **2024-06-21 CAD 20,009.95** (funded by Tangerine transfers 15,000+20,000 and 20,000); 2025-11-18 CAD 30,009.95. Payees unknown – to be explained (these are large personal outflows).
+- **Tangerine transfers in** match Tangerine chequing withdrawals exactly (2023-05 → 2025-12): cross-check OK.
+- **CRA refunds** into this account: 2023-05-01 CAD 5,459.56 ("CANADA RIT", 2022 return); 2024-05-06 CAD 5,300.33; 2025-04-29 CAD 2,813.65 + 5,242.55; 2026-04-08 CAD 3,815.84 + 10,854.94 (two spouses each year). Also climate action incentive rebates (CAI/CDA) 2023–2025.
+- **US presence hint**: ATM withdrawal "$US 150" (CAD 224.43) on 2025-03-13 → US trip; FX ATM 2026-01-12. Day counts for the SPT/non-residency should include any 2025 US trips.
+- Not captured in this account: June–Nov 2026 statements are in the same file (sourced earlier).
+
+## Mortgage_history.csv extended (2026-11-03)
+- Old CWT/BNC mortgage payments now cover **2022-04-01 → 2026-03-02**: 48 payments, CAD 177,216.64 total (2022: 25,678.38; 2023: 37,743.00; 2024: 47,785.96; 2025: 52,807.44; 2026 to Mar: 13,201.86). Principal/interest split unknown (need CWT/BNC annual statements). All pre-rental (home was lived in until ~Mar 2026), so not rental deductions; useful for ACB/refinance history.
+- **EI (Jun–Oct 2025) = Swathy, laid off from SSENSE** (user, 2026-11-03). SSENSE pay in the joint chequing continues to 2025-07-03, overlapping the first EI deposits (2025-06-05/06-17) → likely final pay/severance/vacation payout alongside EI start; accountants to confirm T4/T4E for 2025 (EI weeks may be reduced by earnings/severance). She started at Veeva Oct 2025, then moved to the US (2025-11-22).

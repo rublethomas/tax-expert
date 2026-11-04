@@ -84,4 +84,6 @@
 - Still to ask: furniture/storage in Canada, Canadian address/mail, frequency/length of Canada visits.
 - No Canadian mailing address, no furniture/storage in Canada. No visits to Canada since 2026-01-02 (day count: 0 Canada days in 2026 so far for Ruble; confirm Swathy).
 
-- (2026-11-03, later) "35K" = combined RRSPs of both spouses. Manulife statements: Ruble CAD 27,161.77 + Swathy CAD 1,084.63 = CAD 28,246.40 at 2026-06-30. ~CAD 6.8K gap: ask if another RRSP exists (Veeva group plan?).
+- (2026-11-03, final) "35K" = Swathy's two RRSPs (CAD 35,109.22). All RRSPs: Ruble Manulife 27,161.77 + Swathy Manulife 1,084.63 + Swathy Desjardins 34,024.59 = CAD 62,270.99 at 2026-06-30. No other RRSPs.
+
+- (2026-11-03) Moved US -> Canada around mid-2021 (savings wired to Canada 2021-07-16). TO CONFIRM: exact date moved to Canada; prior US status (visa) and years in US; whether US returns/final-year filings were done for the move; any US accounts, 401(k)/IRA, or credit cards still open from that time.
