@@ -1,0 +1,40 @@
+person,entry_date,exit_date,port_in,port_out,status,reason,passport_last4,source,flag
+Ruble,2016-06-19,2016-12-07,NYC,MIA,H1B,Work,4096,original,
+Ruble,2017-01-04,2018-03-09,MIA,SFR,H1B,Work,4096,original,
+Ruble,2018-04-08,2020-11-20,SFR,DCT,H1B,Work,4096,original,Overlaps 4 correction trips below (LOS/NYC/MIA); confirm whether this row is a physical stay or only an I-94 validity span
+Ruble,2018-12-29,2019-01-10,LOS,LOS,unknown,unknown,unknown,correction,"Inside 2018-04-08..2020-11-20 span; port codes only, status not given"
+Ruble,2019-12-10,2019-12-15,NYC,NYC,unknown,unknown,unknown,correction,Inside 2018-04-08..2020-11-20 span; Excel serial dates converted
+Ruble,2020-01-30,2020-02-05,MIA,MIA,unknown,unknown,unknown,correction,Inside 2018-04-08..2020-11-20 span; Excel serial dates converted
+Ruble,2020-03-03,2020-03-26,NYC,NYC,unknown,unknown,unknown,correction,Inside 2018-04-08..2020-11-20 span; Excel serial dates converted
+Ruble,2020-11-20,2021-03-27,DCT,DCB,H1B,Work,8882,original,
+Ruble,2021-04-20,2021-04-26,DCB,LEW,H1B,Work,8882,original,
+Ruble,2021-12-12,2021-12-23,LVG,LVG,unknown,unknown,unknown,correction,New row from correction file (I-94 rows 22/21)
+Ruble,2024-02-03,2024-02-03,PHU,DCB,B2,Tourism,8882,original,
+Ruble,2024-04-13,2024-04-13,CHI,CHI,B2,Transit,8882,original,
+Ruble,2024-05-17,2024-05-20,DCB,PHU,B2,Tourism,8882,original,
+Ruble,2024-06-21,2024-06-24,DCB,DCB,B2,Tourism,8882,original,
+Ruble,2024-06-28,2024-06-30,DCB,PHU,B2,Tourism,8882,original,
+Ruble,2024-08-02,2024-08-04,PHU,PHU,B2,Tourism,8882,original,
+Ruble,2024-10-12,2024-10-12,PBB,PBB,B2,Tourism,8882,original,
+Ruble,2024-11-02,2024-11-02,PHU,PHU,B2,Tourism,8882,original,
+Ruble,2025-05-23,2025-05-26,PBB,PBB,B2,Tourism,168LS,original,
+Ruble,2025-08-30,2025-08-31,RBB,LEW,B2,Tourism,168LS,original,
+Swathy,2017-01-04,2018-03-09,MIA,SFR,H1B,Work,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2018-04-08,2020-11-20,SFR,DCT,H1B,Work,,original,Overlaps 4 correction trips below (LOS/NYC/MIA); confirm whether this row is a physical stay or only an I-94 validity span; Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2018-12-29,2019-01-10,LOS,LOS,unknown,unknown,,correction,"Inside 2018-04-08..2020-11-20 span; port codes only, status not given; Copied from Ruble per user (travelled together); verify against own I-94"
+Swathy,2019-12-10,2019-12-15,NYC,NYC,unknown,unknown,,correction,Inside 2018-04-08..2020-11-20 span; Excel serial dates converted; Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2020-01-30,2020-02-05,MIA,MIA,unknown,unknown,,correction,Inside 2018-04-08..2020-11-20 span; Excel serial dates converted; Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2020-03-03,2020-03-26,NYC,NYC,unknown,unknown,,correction,Inside 2018-04-08..2020-11-20 span; Excel serial dates converted; Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2020-11-20,2021-03-27,DCT,DCB,H1B,Work,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2021-04-20,2021-04-26,DCB,LEW,H1B,Work,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2021-12-12,2021-12-23,LVG,LVG,unknown,unknown,,correction,New row from correction file (I-94 rows 22/21); Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-02-03,2024-02-03,PHU,DCB,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-04-13,2024-04-13,CHI,CHI,B2,Transit,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-05-17,2024-05-20,DCB,PHU,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-06-21,2024-06-24,DCB,DCB,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-06-28,2024-06-30,DCB,PHU,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-08-02,2024-08-04,PHU,PHU,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-10-12,2024-10-12,PBB,PBB,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2024-11-02,2024-11-02,PHU,PHU,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2025-05-23,2025-05-26,PBB,PBB,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94
+Swathy,2025-08-30,2025-08-31,RBB,LEW,B2,Tourism,,original,Copied from Ruble per user (travelled together); verify against own I-94

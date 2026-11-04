@@ -44,3 +44,24 @@ Status key: [ ] todo · [x] done · [~] waiting on someone
 **Personal returns**: 2025 T1s + NOAs for both (incl. the CAD 3,815.84 and 10,854.94 refunds), 2025 slips (T4 Kinaxis/Ssense/Veeva, T4E EI, T5, T5008), RRSP contribution room (CRA My Account), departure dates and what accountants have said (departure return, T1161, NR73).
 **Accounts**: Dec 31 2026 balances + monthly max for every Canadian account; unknown "GC 2833" account; any TFSA/FHSA/RESP; Wealthsimple year-end values; Veeva payroll/plan docs, SSENSE payroll slips (RRSP statements complete).
 **Admin**: CRA My Account access, address on file at CRA/banks/Manulife/Wealthsimple, Part XIII residency updates at brokers.
+
+## Travel history (added 2026-11-04)
+- [x] History is Ruble's (confirmed 2026-11-04)
+- [ ] Resolve overlap: 2018-04-08..2020-11-20 H1B row vs 4 correction trips (LOS/NYC/MIA) — physical stay or validity span?
+- [ ] History ends 2025-08-31; add entries for Swathy 2025-11-22 and Ruble 2026-01-02 and any trips since (re-pull from CBP I-94 site)
+- [ ] Swathy's rows are copies of Ruble's from 2017 on (user: travelled together); pull her own I-94 history to verify (her entries pre-2025-11-22 may differ)
+- [ ] Then build day-count worksheet (substantial presence test)
+
+## Mortgage (added 2026-11-04)
+- [x] CWB 2024 renewal agreement and TD FlexLine 2026 term amendment received (see canada/mortgage-terms.md)
+- [ ] Explain ~CAD 47,146 gap: CWB est. maturity balance 596,968.04 vs payout 549,822.14 (prepayments? get CWB/BNC payout statement). Note: the 70,772.14 cash paid to TD at closing is a separate item, already accounted for
+- [x] 950.00 closing difference = appraisal 300 + in-house legal 650 (TD April statement)
+- [ ] Confirm the bank drafts (20,009.95 on 2024-06-21; 30,009.95 on 2025-11-18) went to CWB as prepayments; get CWB/BNC payout statement
+- [ ] Characterize each corp-to-personal transfer (2024-06-21 7,500; 2025-11-18 30,000; 2026-03-23 25,000; 2026-10 41,000): dividend / loan / repayment / capital. **CPA flag**: Part XIII withholding, s.15(2), Form 5471
+- [ ] TD FlexLine interest paid by month for 2026 (Apr–Dec) and revolving-portion interest
+- [ ] Confirm lender mailing address for both borrowers (conflicts with "no Canadian address")
+- [ ] CPA: interest deductibility on refinance for rental use; April 2026 appraisal for FMV at conversion
+- [ ] Come back to: substantial presence day-count worksheet (deferred by user 2026-11-04)
+- [ ] Confirm which transfer was the 2025 shareholder loan (30,000 on 2025-11-18?) and whether the 2026-03-23 25,000 is a dividend
+- [ ] Corp tax year-end date (drives s.15(2) repayment deadline); loan note + dated dividend resolution(s); NR4/Part XIII withholding on 2026 dividends
+- [ ] Source of the 2026-10-13 41,000 lump sum (corp CSV only runs to 2026-09-29)
