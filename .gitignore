@@ -1,0 +1,7 @@
+.DS_Store
+# Sensitive source documents – never commit
+years/*/*/documents/
+*.pdf
+*.csv
+*.xlsx
+*.env
