@@ -1,0 +1,5 @@
+Period_Start,Period_End,Plan_Type,Opening_Value,Contributions_Member,Contributions_Sponsor,Transfer_In,Withdrawals,Growth,Closing_Value,Fund,Units,Unit_Price,Personal_Return_Pct,Mgmt_Fee_Pct,Notes
+2024-01-01,2024-12-31,Group RRSP (Kinaxis),6943.76,4727.60,4727.60,0.00,0.00,2645.04,19044.00,2178 ML LifePath Ind 2055 BR d0,755.80276,25.1970,23.9,0.65,Employer plan; first contribution 2023-04-26; joined 2023-04-17
+2025-01-01,2025-06-30,Personal RRSP (Manulife),0.00,0.00,,20476.72,0.00,975.57,21452.29,2178 ML LifePath Ind 2055 BR a7 c8,839.76532,25.5460,4.8,,Transferred in from group plan (employment ended ~Mar 2025); joined 2025-03-18
+2025-01-01,2025-12-31,Personal RRSP (Manulife),0.00,0.00,,20476.72,0.00,3347.05,23823.77,2178 ML LifePath Ind 2055 BR a7 c8,839.76532,28.3700,16.3,1.62,Annual report
+2026-01-01,2026-06-30,Personal RRSP (Manulife),23823.77,2.00,,0.00,0.00,3336.00,27161.77,2178 ML LifePath Ind 2055 BR a7 c8,839.83368,32.3420,14.0,,Progress report; 12-month return 26.6%; no withdrawals

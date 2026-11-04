@@ -6,7 +6,7 @@
 | | US | Canada |
 |---|---|---|
 | Swathy | Arrived 2025-11-22. 2025: ~40 days → **not** a US resident for 2025 (needs 183 weighted). 2026: will pass the test (>183 days in 2026 by early July) → **US resident for all of 2026** (residency starts on first day present in 2026, i.e., Jan 1 if she stayed). | Probably became a Canadian **non-resident on her departure date** (Nov 22, 2025, or Jan 2, 2026 if spouse's ties kept her factually resident). ⚠ Determines whether her **2025** Canadian return should have been a departure return. |
-| Rubel | Arrived 2026-01-02. 2025: not in US → no US filing as resident. 2026: **US resident from Jan 2, 2026**. | Likely Canadian non-resident from ~**2026-01-02** → **2026 Canadian return is a departure (part-year) return**. |
+| Ruble | Arrived 2026-01-02. 2025: not in US → no US filing as resident. 2026: **US resident from Jan 2, 2026**. | Likely Canadian non-resident from ~**2026-01-02** → **2026 Canadian return is a departure (part-year) return**. |
 
 So for **2026 both are US resident aliens** → eligible for **Married Filing Jointly**, all worldwide income from residency start reported.
 
@@ -21,7 +21,7 @@ So for **2026 both are US resident aliens** → eligible for **Married Filing Jo
    - **What NR6 is**: a CRA form (non-resident owner's undertaking to file a return) you submit **each year before the first rent payment of the year (generally by Dec 31 for the next year)** that lets the payer withhold 25% of *net* rent instead of gross. Then you file a section 216 return by **June 30** following the year, for each owner (you and Swathy file separately, each on your ownership share).
    - For **2026**: if NR6 wasn't filed, 25% of gross rent should have been withheld; ask whether it was. CRA has a late-filing policy for s.216 returns. For **2027**: file NR6 **before Jan 1, 2027** (i.e., in the next ~8 weeks).
    - US side for 2026: Schedule E rental with US depreciation; Form 1116 credit for Canadian tax; you each report your share.
-8. **2025 filings sanity check**: Swathy had ~40 US days and some US wages: was a 1040-NR (or no US return) correct? Confirm what was filed. If Rubel filed any US 2025 return as a resident, that would be wrong. If anything was misfiled, amending is easier early.
+8. **2025 filings sanity check**: Swathy had ~40 US days and some US wages: was a 1040-NR (or no US return) correct? Confirm what was filed. If Ruble filed any US 2025 return as a resident, that would be wrong. If anything was misfiled, amending is easier early.
 
 ## 3. Corrections to earlier docs
 - There is **no separate "new Ontario incorporation next year"** — the corporation already exists. What changes next year is **reporting its activity** (T2 via your accountants; plus US forms 5471 etc.). Treat docs/03 section "Next year – new Ontario incorporation" as "existing corporation – US reporting".

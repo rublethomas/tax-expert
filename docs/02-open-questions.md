@@ -42,15 +42,15 @@
 
 ---
 # Answers received 2026-11-03 (intake round 1)
-- A: Swathy entered US **2025-11-22**; Rubel entered US **2026-01-02**. Neither told CRA of departure. Both filed 2025 returns in the US and Canada (forms/preparer/status used: **still need to confirm**).
+- A: Swathy entered US **2025-11-22**; Ruble entered US **2026-01-02**. Neither told CRA of departure. Both filed 2025 returns in the US and Canada (forms/preparer/status used: **still need to confirm**).
 - B: Home titled in **both** names. NR6 unknown to user (explained in docs/06).
-- C: Existing Ontario/Canada corporation, **Rubel sole owner**. Does contract IT work for IT companies. Corporate/personal filings done by Canadian tax professionals; "2026 filing" in progress by them.
+- C: Existing Ontario/Canada corporation, **Ruble sole owner**. Does contract IT work for IT companies. Corporate/personal filings done by Canadian tax professionals; "2026 filing" in progress by them.
 - E: Corp: 2 bank accounts + 1 credit card; plus a retirement account, savings, and checking (all active).
 - F: Prefers **self-file** (see docs/06 – recommend CPA for at least Form 5471 and the departure return).
 
 ## Follow-ups needed (round 2)
 1. Which US forms were filed for 2025 (1040 vs 1040-NR; joint vs separate)? Which Canadian forms (resident T1, any T1161/departure)? Did Swathy have US wages in Nov–Dec 2025?
-2. Did either of you stay in Canada at any point after your US entry date (trips, nights)? When did you actually sever ties (sold/gave up Canadian residence, lease, driver's licence, OHIP)? Was Rubel living in Canada all of 2025?
+2. Did either of you stay in Canada at any point after your US entry date (trips, nights)? When did you actually sever ties (sold/gave up Canadian residence, lease, driver's licence, OHIP)? Was Ruble living in Canada all of 2025?
 3. Corporation: name, fiscal year-end, whether the "2026 filing" is the FY2026 T2; shareholder loans? Retained earnings / FMV estimate; who are the clients (Canadian or US companies)?
 4. **Where is the contract work physically performed since Jan 2, 2026 – inside the US or Canada?** Is it in addition to your Amex job? Has an immigration attorney reviewed it?
 5. Dividends: dates and amounts since Jan 2, 2026 (and in 2025). Did the corp withhold 15%/25% and file NR4 for post-departure dividends?
@@ -82,4 +82,6 @@
 - Car: imported to the US; no vehicle in Canada.
 - Remaining Canadian ties: bank accounts, RRSP, corporation, rented home (arm's-length tenant), licence. Spouse/jobs/home life in Florida.
 - Still to ask: furniture/storage in Canada, Canadian address/mail, frequency/length of Canada visits.
-- No Canadian mailing address, no furniture/storage in Canada. No visits to Canada since 2026-01-02 (day count: 0 Canada days in 2026 so far for Rubel; confirm Swathy).
+- No Canadian mailing address, no furniture/storage in Canada. No visits to Canada since 2026-01-02 (day count: 0 Canada days in 2026 so far for Ruble; confirm Swathy).
+
+- (2026-11-03, later) "35K" = combined RRSPs of both spouses. Manulife statements: Ruble CAD 27,161.77 + Swathy CAD 1,084.63 = CAD 28,246.40 at 2026-06-30. ~CAD 6.8K gap: ask if another RRSP exists (Veeva group plan?).

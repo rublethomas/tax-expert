@@ -1,0 +1,59 @@
+Date,Transaction,Name,Memo,Amount
+11/03/2023,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+11/30/2023,OTHER,Interest Paid,Interest Paid,0.12
+12/03/2023,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+12/31/2023,OTHER,Interest Paid,Interest Paid,0.23
+01/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+01/31/2024,OTHER,Interest Paid,Interest Paid,0.35
+02/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+02/29/2024,OTHER,Interest Paid,Interest Paid,0.44
+03/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+03/31/2024,OTHER,Interest Paid,Interest Paid,0.59
+04/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+04/30/2024,OTHER,Interest Paid,Interest Paid,0.68
+05/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+05/31/2024,OTHER,Interest Paid,Interest Paid,0.82
+06/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+06/30/2024,OTHER,Interest Paid,Interest Paid,0.84
+07/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+07/31/2024,OTHER,Interest Paid,Interest Paid,0.91
+08/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+08/31/2024,OTHER,Interest Paid,Interest Paid,0.76
+09/01/2024,OTHER,Promotional Bonus Interest,Promotional Bonus Interest,0.84
+09/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+09/30/2024,OTHER,Interest Paid,Interest Paid,0.62
+10/01/2024,OTHER,Promotional Bonus Interest,Promotional Bonus Interest,1.71
+10/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+10/31/2024,OTHER,Interest Paid,Interest Paid,0.61
+11/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+11/27/2024,OTHER,EFT Withdrawal to WS Investments,EFT Withdrawal to WS Investments,-2600.00
+11/30/2024,OTHER,Interest Paid,Interest Paid,0.55
+12/03/2024,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+12/23/2024,OTHER,EFT Withdrawal to WS Investments,EFT Withdrawal to WS Investments,-200.00
+12/31/2024,OTHER,Interest Paid,Interest Paid,0.04
+01/03/2025,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+01/31/2025,OTHER,Interest Paid,Interest Paid,0.05
+02/03/2025,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+02/03/2025,OTHER,EFT Withdrawal to WS Investments,EFT Withdrawal to WS Investments,-400.00
+02/28/2025,OTHER,Interest Paid,Interest Paid,0.01
+03/03/2025,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+03/31/2025,OTHER,Interest Paid,Interest Paid,0.05
+04/03/2025,CREDIT,Recurring Internet Deposit from,Recurring Internet Deposit from Tangerine Chequing Account - x1836,200.00
+04/14/2025,OTHER,EFT Withdrawal to WS Investments,EFT Withdrawal to WS Investments,-410.22
+04/30/2025,OTHER,Interest Paid,Interest Paid,0.04
+09/27/2025,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,0.34
+10/28/2025,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,2.16
+10/31/2025,OTHER,Interest Paid,Interest Paid,0.00
+11/30/2025,OTHER,Interest Paid,Interest Paid,0.00
+12/15/2025,OTHER,EFT NSF Fee to WS Investments,EFT NSF Fee to WS Investments,-45.00
+12/16/2025,CREDIT,Internet Deposit from Tangerine,Internet Deposit from Tangerine Chequing Account - x1836,1042.46
+12/16/2025,OTHER,From Us to You!,From Us to You!,45.00
+12/17/2025,OTHER,EFT Withdrawal to WS Investments,EFT Withdrawal to WS Investments,-1000.00
+12/25/2025,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,21.75
+12/31/2025,OTHER,Interest Paid,Interest Paid,0.02
+01/18/2026,CREDIT,Internet Deposit from Tangerine,Internet Deposit from Tangerine Chequing Account - x1836,66.77
+01/28/2026,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,10.43
+01/31/2026,OTHER,Interest Paid,Interest Paid,0.03
+02/28/2026,OTHER,Interest Paid,Interest Paid,0.03
+03/24/2026,OTHER,EFT Withdrawal to THE TORONTO-DO,EFT Withdrawal to THE TORONTO-DOMINION BANK,-144.03
+03/31/2026,OTHER,Interest Paid,Interest Paid,0.03

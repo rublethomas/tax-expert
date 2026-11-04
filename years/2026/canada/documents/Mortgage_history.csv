@@ -1,0 +1,39 @@
+Date,Loan,Portion,Transaction Description,Charges_Advances,Payments_Credits,Principal_Paid,Interest_Paid,Balance,Source
+2025-06-02,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2025-07-02,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2025-08-01,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2025-09-02,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2025-10-01,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2025-11-03,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2025-12-01,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2026-01-02,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2026-02-02,Prior mortgage (CWT/BNC),Term,CWT CAD DEBIT MTG,,4400.62,,,,chequing
+2026-03-02,Prior mortgage (CWT/BNC),Term,BNC MTG,,4400.62,,,,chequing (label changed from CWT; same amount)
+2026-04-01,TD FlexLine x7707,Revolving,OPENING BALANCE,,,,,0.00,stmt Apr
+2026-04-02,TD FlexLine x7707,Revolving,APPRAISAL FEE,300.00,,,,300.00,stmt Apr
+2026-04-02,TD FlexLine x7707,Revolving,INHOUSE LEGAL FEE,650.00,,,,950.00,stmt Apr
+2026-04-02,TD FlexLine x7707,Revolving,PAYMENT FROM CHEQUING x0941 (SF),,70772.14,,,-69822.14,stmt Apr
+2026-04-02,TD FlexLine x7707,Revolving,CAD DRAFT (payout of prior mortgage),549822.14,,,,480000.00,stmt Apr
+2026-04-02,TD FlexLine x7707,Revolving,TRANSFER TO TERM PORTION,,480000.00,,,0.00,stmt Apr
+2026-04-02,TD FlexLine x7707,Term,NEW TERM PORTION (maturity 2029-04-02; 3.980%),480000.00,,,,480000.00,stmt Apr
+2026-04-13,TD FlexLine x7707,Revolving,CREDIT MEMO,,1000.00,,,-1000.00,stmt Apr
+2026-04-30,TD FlexLine x7707,Revolving,INSURANCE,70.84,,,,-929.16,stmt Apr
+2026-05-01,TD FlexLine x7707,Revolving,PYT+INS (credit protection),,70.84,,,-1000.00,stmt May
+2026-05-04,TD FlexLine x7707,Revolving,CREDIT MEMO,,1100.00,,,-2100.00,stmt May
+2026-05-04,TD FlexLine x7707,Term,PAYMENT,,2805.95,1144.97,1660.98,478855.03,stmt May
+2026-05-29,TD FlexLine x7707,Revolving,INSURANCE,75.36,,,,-2024.64,stmt May
+2026-06-01,TD FlexLine x7707,Revolving,PYT+INS (credit protection),,75.36,,,-2100.00,stmt Jun
+2026-06-02,TD FlexLine x7707,Term,PAYMENT,,2805.95,1304.27,1501.68,477550.76,stmt Jun
+2026-06-30,TD FlexLine x7707,Revolving,INSURANCE,77.95,,,,-2022.05,stmt Jun
+2026-07-02,TD FlexLine x7707,Revolving,PYT+INS (credit protection),,77.95,,,-2100.00,stmt Jul
+2026-07-02,TD FlexLine x7707,Term,PAYMENT,,2805.95,1256.72,1549.23,476294.04,stmt Jul
+2026-07-31,TD FlexLine x7707,Revolving,INSURANCE,85.75,,,,-2014.25,stmt Jul
+2026-08-04,TD FlexLine x7707,Revolving,PYT+INS (credit protection),,85.75,,,-2100.00,stmt Aug
+2026-08-04,TD FlexLine x7707,Term,PAYMENT,,2805.95,1106.28,1699.67,475187.76,stmt Aug
+2026-08-31,TD FlexLine x7707,Revolving,INSURANCE,75.36,,,,-2024.64,stmt Aug
+2026-09-01,TD FlexLine x7707,Revolving,PYT+INS (credit protection),,75.36,,,-2100.00,stmt Sep
+2026-09-02,TD FlexLine x7707,Term,PAYMENT,,2805.95,1315.77,1490.18,473871.99,stmt Sep
+2026-09-29,TD FlexLine x7707,Revolving,INSURANCE,75.36,,,,-2024.64,stmt Sep
+2026-10-02,TD FlexLine x7707,Term,PAYMENT (amount from chequing; split not in statements),,2805.95,,,,chequing only
+2026-10-13,TD FlexLine x7707,Term,LUMP-SUM PAYMENT (from chequing; funded by corp transfer),,41000.00,,,,chequing only
+2026-11-02,TD FlexLine x7707,Term,PAYMENT (amount from chequing; split not in statements),,2805.95,,,,chequing only

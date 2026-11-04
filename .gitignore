@@ -1,7 +1,15 @@
 .DS_Store
-# Sensitive source documents – never commit
-years/*/*/documents/
-*.pdf
-*.csv
-*.xlsx
+.env
 *.env
+# Scans/office files – never commit
+*.pdf
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+# Source documents: CSV statements and notes may be tracked (private repo, user's choice 2026-11-03);
+# everything else inside documents/ folders stays local.
+years/**/documents/*
+!years/**/documents/*.csv
+!years/**/documents/*.md
+!years/**/documents/.gitkeep
