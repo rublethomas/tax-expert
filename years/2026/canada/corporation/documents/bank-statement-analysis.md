@@ -30,3 +30,9 @@ Source: CAD and USD business account CSVs (originals NOT in repo; drop them in t
 - Payments match the CAD corp account: 726.98 (2025-04-21) and 142.38 (2025-07-21) come from the corp account. **The 2025-12-29 payment of 68.75 matches a TD personal savings transfer** (personal funds used to pay a corporate card).
 - Last purchase 2025-12-08, before the departure date → no card use after 2026-01-02 through 2026-01-05 (later statements still to come).
 - Confirmed by user 2026-11-03: no statements for the other periods because no activity occurred; nothing is missing.
+
+## T2 for FY 2025-04-01 → 2026-03-31 (received 2026-11-08; prepared by accountants, not yet filed – awaiting signed T183CORP; PDFs not kept)
+- Revenue CAD 169,331 (US-client wires); expenses CAD 2,191; net/taxable income CAD 167,140. Tax: federal Part I 15,042 + Ontario 5,348 = **CAD 20,390 balance owing, no instalments paid**. Small business deduction claimed (fed 31,757 + ON 13,873) as a CCPC.
+- Dividends paid in FY: CAD 29,513 (non-eligible) → 2025 **T5** CAD 29,513.36 (box 24 actual; taxable amount with 15% gross-up would be ~33,940). Balance sheet: total assets 224,016 (cash 198,736; **GIFI 1301 = CAD 25,000 due from shareholder** = the 2026-03-23 draw booked as a shareholder loan); liabilities 22,820 (incl. 20,391 tax); equity 201,196.
+- Instalment schedule for next FY (Apr 2026–Mar 2027): 1,700/month (20,390 total); none paid so far per bank statements.
+- Flags for accountants: (1) CCPC status after 2026-01-02 (non-resident controlling shareholder) → SBD requires CCPC throughout the year; (2) T2 answers "no" to non-resident shareholders (Schedule 19) and to Part XIII; (3) shareholder loan to a non-resident; (4) filing deadline was 2026-09-30 (late-filing penalty/interest) and the CAD 20,390 due date (~2026-06-30); (5) "business number" request for T5 is likely the RZ information-return account, not a bank transit number.
