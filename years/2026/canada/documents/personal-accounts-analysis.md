@@ -6,9 +6,9 @@ Files: TD_chequing.csv (joint, per user), TD_savings.csv.
 |---|---|---|---|
 | 2025-11-18 | CAD 30,000 out | +30,000 "GC 0100" | Same day CAD DRAFT 30,009.95 out (payee unknown). Pre-departure → Canadian-resident dividend/other. |
 | 2026-03-23 | CAD 25,000 out | +25,000 "GC 3455" | With Tangerine redemptions (~46.4K) + 4,018 deposit → **2026-04-02 lump payment CAD 70,772.14 to loan ...4017707**. POST-departure. |
-| 2026-10-13 | not in corp CSV (ends 09-29) | +41,814 "GC 3455" | Same day **LN PYMT 41,000** to loan. POST-departure. Corp CAD balance was only 30.7K → source must be USD-account conversion or other account: confirm. |
+| 2026-10-13 | USD account, converted (per user) | +41,814 "GC 3455" | Same day **LN PYMT 41,000** to loan. POST-departure. |
 
-Post-departure corp draws total **CAD 66,814** (25,000 + 41,814). If dividends: Part XIII 15% = **CAD 10,022.10** (3,750 on Mar draw – remittance was due 2026-04-15; 6,272.10 on Oct draw – due **2026-11-15**). US: dividend income in 2026 (USD at IRS 2026 avg rate).
+Post-departure payouts and Part XIII: see [Corp_dividends_2026.csv](../corporation/documents/Corp_dividends_2026.csv).
 
 ## Rental – correction needed
 - Rent e-transfers CAD 2,800 on 2026-04-15, 05-15, 06-15, 07-15, 08-14, 09-15, 10-15 (7 payments = CAD 19,600 through Oct). **No rent deposits in 2025** and household utilities (Hydro, Enbridge, Fit4less) were paid until ~Mar 2026 → user's "Mar 2025" likely meant **Mar/Apr 2026**. Confirm; if so, the home was a principal residence until ~Mar 2026 and there is no 2025 rental income.
@@ -29,7 +29,7 @@ Post-departure corp draws total **CAD 66,814** (25,000 + 41,814). If dividends: 
 1. Payee/purpose of CAD DRAFT 11999243 (30,009.95, 2025-11-18) and corp CAD draw 85,805.11 (2022-03-21)?
 2. Rent start date? Is 2,800 the full rent (utilities included)? Tenant name/agent?
 3. Loan ...4017707: what is it (mortgage? HELOC? car?) and what was paid off on 2026-04-02?
-4. Source of the 2026-10-13 CAD 41,814: which corp account? Was it declared as dividends?
+4. Oct USD-account statement (USD amount, rate) for the 2026-10-13 payout.
 5. Tangerine account type/balances; GC 2833 account?
 6. Who earned SSENSE/EI/Veeva income?
 

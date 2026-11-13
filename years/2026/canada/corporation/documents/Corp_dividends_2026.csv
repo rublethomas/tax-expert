@@ -1,0 +1,4 @@
+Date,From,To,Amount_CAD,Basis,Part_XIII_15pct_CAD,Part_XIII_due_date
+2026-03-23,Corporation CAD account (GC 3455 transfer),Joint TD chequing (...0941),25000.00,Treated as dividend per user instruction (accountants booked as shareholder loan),3750.00,2026-04-15 (past due)
+2026-10-13,"Corporation USD account (converted to CAD; per user, Oct statement not yet provided)",Joint TD chequing (...0941),41814.00,Treated as dividend per user instruction,6272.10,2026-11-15
+TOTAL,,,66814.00,,10022.10,
